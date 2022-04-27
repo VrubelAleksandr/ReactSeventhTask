@@ -1,0 +1,40 @@
+nav {
+    width: 140px;
+    height: 25px;
+    background-color: black;
+}
+
+.link {
+    margin-right: 6px;
+    text-decoration: none;
+    color: aliceblue;
+    height: 25px;
+}
+.link:hover{
+    background-color: burlywood;
+    color: black;
+}
+
+.active {
+    background-color: gray;
+    color: white;
+}
+
+.target {
+    overflow: hidden;
+    background-color: blue;
+    height: 50px;
+    width: 300px;
+    margin-bottom: 3px;
+}
+
+.target:hover {
+    background-color: gray;
+}
+
+.text {
+    color: yellow
+}
+.text-decor{
+    text-decoration: none; 
+}
